@@ -1,4 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Jovi's Personal Website
+
+# Education Background
+
+## Zhejiang University
+- Hangzhou, China, 2018.09 - 2022.06
+- Information and Computing Science, Bachelor of Science 
+## Rice University
+- Houston, United States, 2022.08 - present
+- Computer Science, Master of Engineering
+
+
+# Work Experience
+
+## Juangsu Shoncloud Co, limted
+
+# Technique Stack
+
+## Artificial Intelligence
+### Computer Vision
+
+### Graph Neural Network
 
 You can use the [editor on GitHub](https://github.com/Jovi-Wong/joviwong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
