@@ -12,6 +12,7 @@
 # Work Experience
 
 ## [JIANGSU SHONCLOUD TECHNOLOGY CO.LIMITED](https://shoncloud.com/)
+This is a leading CAE company in China providing industrial stimulation software to university and manufacturing enterprises. During the internship, I was designated to deploy the linear system solver onto multi-GPU architecture. In order to complete this task, I have read numerous articles on numerical algebra searching for an algorithm suitable for parallel computing in heterogenous devices. Besides, I have utilized CUDA and MPI to implement the algorithm aiming at exploiting the computing power of all devices totally.
 
 # Technique Stack
 
