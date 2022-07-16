@@ -1,5 +1,3 @@
-## Welcome to Jovi's Personal Website
-
 # Education Background
 
 ## Zhejiang University
