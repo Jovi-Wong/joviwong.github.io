@@ -5,6 +5,7 @@
 ## Zhejiang University
 - Hangzhou, China, 2018.09 - 2022.06
 - Information and Computing Science, Bachelor of Science 
+
 ## Rice University
 - Houston, United States, 2022.08 - present
 - Computer Science, Master of Engineering
@@ -12,7 +13,7 @@
 
 # Work Experience
 
-## Juangsu Shoncloud Co, limted
+## [JIANGSU SHONCLOUD TECHNOLOGY CO.LIMITED](https://shoncloud.com/)
 
 # Technique Stack
 
