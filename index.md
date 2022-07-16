@@ -13,7 +13,7 @@
 
 ## Work Experience
 
-## [JIANGSU SHONCLOUD TECHNOLOGY CO.LIMITED](https://shoncloud.com/)
+### [JIANGSU SHONCLOUD TECHNOLOGY CO.LIMITED](https://shoncloud.com/)
 This is a leading CAE company in China providing industrial stimulation software to university and manufacturing enterprises. During the internship, I was designated to deploy the linear system solver onto multi-GPU architecture. In order to complete this task, I have read numerous articles on numerical algebra searching for an algorithm suitable for parallel computing in heterogenous devices. Besides, I have utilized CUDA and MPI to implement the algorithm aiming at exploiting the computing power of all devices totally.
 
 ## Technique Stack
@@ -22,12 +22,14 @@ This is a leading CAE company in China providing industrial stimulation software
 #### Computer Vision
 * [Brain Tumour Detection](https://github.com/Jovi-Wong/Brain-Tumor-Detection)
 
-This project, tutored by professor Yike Guo who is the Director of the Data Science Insititute in Imperial College London, is constituted by two tasks, to diagnose the existence of brain tumor through a CT picture and then to locate areas  where tumors lay. Diagnosing brain tumors by CT pictures has been known as a dominant area of medical experts for a long time. Our team has utilized Tensorflow which is a framework of Python, to apply models, VGG and Unet++, and hits 84\% accuracy rate in the first task and 75\% accuracy rate in the second task on the given dataset, approaching experts' level. Finally, our presentation is highly recognized by the professor.
+    This project, tutored by professor Yike Guo who is the Director of the Data Science Insititute in Imperial College London, is constituted by two tasks, to diagnose the existence of brain tumor through a CT picture and then to locate areas  where tumors lay. Diagnosing brain tumors by CT pictures has been known as a dominant area of medical experts for a long time. Our team has utilized Tensorflow which is a framework of Python, to apply models, VGG and Unet++, and hits 84\% accuracy rate in the first task and 75\% accuracy rate in the second task on the given dataset, approaching experts' level. Finally, our presentation is highly recognized by the professor.
 
 
 #### Graph Neural Network
 
-You can use the [editor on GitHub](https://github.com/Jovi-Wong/joviwong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* [Signed Network](https://gitee.com/jovi-wong/ETA)
+
+    You can use the [editor on GitHub](https://github.com/Jovi-Wong/joviwong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
