@@ -20,14 +20,16 @@ This is a leading CAE company in China providing industrial stimulation software
 
 ### Artificial Intelligence
 #### Computer Vision
-*[Brain Tumour Detection](https://github.com/Jovi-Wong/Brain-Tumor-Detection)
+
+* [Brain Tumour Detection](https://github.com/Jovi-Wong/Brain-Tumor-Detection)
 
     This project, tutored by professor Yike Guo who is the Director of the Data Science Insititute in Imperial College London, is constituted by two tasks, to diagnose the existence of brain tumor through a CT picture and then to locate areas  where tumors lay. Diagnosing brain tumors by CT pictures has been known as a dominant area of medical experts for a long time. Our team has utilized Tensorflow which is a framework of Python, to apply models, VGG and Unet++, and hits 84% accuracy rate in the first task and 75% accuracy rate in the second task on the given dataset, approaching experts' level. Finally, our presentation is highly recognized by the professor.
 
-*[Interior Space Design Evaluation]
+* [Interior Space Design Evaluation]
 
 
 #### Graph Neural Network
+
 * [Signed Network](https://gitee.com/jovi-wong/ETA)
     
     In this project, I proposed a new model called ETA(Encode then Augument) for learning the embeddings of nodes in social network.
