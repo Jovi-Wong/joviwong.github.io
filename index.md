@@ -3,11 +3,11 @@
 ## Education Background
 
 ### Zhejiang University
-- Hangzhou, China, 2018.09 - 2022.06
+- Hangzhou, China, September 2018 - June 2022
 - Information and Computing Science, Bachelor of Science 
 
 ### Rice University
-- Houston, United States, 2022.08 - present
+- Houston, United States, August 2022 - present
 - Computer Science, Master of Engineering
 
 
