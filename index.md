@@ -38,4 +38,5 @@ This is a leading CAE company in China providing industrial stimulation software
 ### High Performance Computing
     
 * [Finite Element Method for Solving PDE](https://gitee.com/jovi-wong/FEM2021)
+
     This is a open source project on Gitee website conducted by professor of the school of mathematical sciences, Heyu Wang, solving Poisson equation under Dirichlet boundary condition by finite element method. As I continued to contribute code written in C++ to the professor finite element method repository and then become the coauthor of the software. To optimize the program performance, I have applied OpenMP as well as utilize GPU to accelerate the computing process to obtain the best performance of the program. 
